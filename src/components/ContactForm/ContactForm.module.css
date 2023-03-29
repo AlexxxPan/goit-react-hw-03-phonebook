@@ -1,0 +1,35 @@
+.title {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: #000;
+    text-align: center;
+  }
+  
+  .input {
+    text-align: center;
+    display: block;
+    width: 200px;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: rgb(232, 235, 240);
+    color: #000;
+    outline-color: none;
+    border-radius: 5px;
+  }
+  
+  .button {
+    display: block;
+    margin: 0 auto;
+  
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: rgb(31, 108, 241);
+    color: #000;
+    text-transform: uppercase;
+  
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(124, 121, 121);
+  }

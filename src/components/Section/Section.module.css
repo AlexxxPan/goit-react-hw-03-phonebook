@@ -1,0 +1,19 @@
+.title {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    text-transform: uppercase;
+  }
+  .card {
+    display: block;
+    width: 340px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    background: rgb(197, 212, 236);
+    border: 2px #000;
+    border-radius: 5px;
+  }
